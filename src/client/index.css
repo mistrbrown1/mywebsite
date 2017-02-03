@@ -1,0 +1,166 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-color: white;
+}
+
+
+.customNavbar {
+  color: white;
+  background-color: #373c44;
+  text-align: center;
+  top: 0;
+  height: 10%;
+  width: 100%;
+}
+.navbarName {
+  float: left;
+  width: 15%;
+  margin-top: 25px;
+}
+.buttonContainer {
+  width: 85%;
+}
+.customButton {
+  margin: 20px;
+}
+
+.projectImages {
+  max-width: 299px;
+  max-height: 300px;
+  min-width: 185px;
+  min-height: 185px;
+  border: 1px solid #c1c1c1;
+}
+
+.projectDisplayImages {
+  margin: 10px;
+  max-width: 300px;
+  max-height: 300px;
+  min-width: 350px;
+  min-height: 250px;
+  border: 1px solid #c1c1c1;
+}
+
+.card {
+  width: 301px !important;
+  height: 300px !important;
+  margin: 60px 10px 10px 10px !important;
+  text-align: center !important;
+}
+
+.card:hover {
+  border: 1px solid black;
+}
+.projectHeadings {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.projectsContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  position: relative;
+  align-items: center;  
+}
+
+.aboutImage {
+  float: left;
+  max-height: 300px;
+  max-width: 300px;
+  margin-left: 12%;
+  margin-top: 2%;
+  border-radius: 50%;
+}
+.aboutBlurb {
+  width: 50%;
+  margin-left: 38%;
+  margin-top: 2%;
+}
+
+.nameHeader {
+  width: 50%;
+  margin-left: 38%;
+}
+
+.divContainers {
+  margin-top: 10%;
+  width: 100%;
+  height: 50%;
+}
+
+
+.divContainersProjects {
+  margin-top: 4%;
+  width: 100%;
+  height: 50%;
+}
+
+.headingContainer {
+  width: 100%;
+}
+
+.projectName {
+  text-align: center;
+  font-size: 30px;
+  margin-left: 22.5%;
+}
+
+.imageHeading {
+  text-align: center;
+  width: 75%;
+}
+
+.githubLogo {
+  float: right;
+  margin-right: 26%;
+  margin-top: 1%;
+}
+
+.githubImage {
+  max-height: 30px;
+  max-width: 30px;
+}
+
+.projectBlurb {
+  margin-left: 20%;
+}
+
+.projectDisplay {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  position: relative;
+  align-items: center; 
+}
+
+.blurbDetails {
+  width: 75%;
+}
+.blurbHeading {
+  width: 75%;
+}
+
+.contactLogos {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  position: relative;
+  align-items: center;
+}
+
+.logoContact {
+  margin: 2% 2% 0% 2%;
+}
+
+.imageContact {
+  max-width: 100px;
+  max-height: 100px;
+}
