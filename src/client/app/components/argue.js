@@ -13,6 +13,7 @@ const Argue = ({showWhich}) => {
           </div>
         </div>
         <br/>
+        
         <div className='projectBlurb'> 
           <div className='blurbHeading'> 
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A debate application that utilizes the power of Sockets to employ real-time communication between two users. Argue your point of view against another user and prove how right you are! 
